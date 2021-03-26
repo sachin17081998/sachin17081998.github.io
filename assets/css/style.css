@@ -190,8 +190,7 @@ body{
     top:90vh;
     left:50%;
     transform:translateX(-50%);
-    /* text-align: center; */
-    /* justify-items: center;   */
+    
       font-weight: 400;
 }
 #landing_content_phone{
