@@ -1,7 +1,4 @@
 // !java script file
-// $(document).ready(function(){
-//     $('.scrollspy').scrollSpy();
-//   });
 
 // !sidenav
 function open_nav(){
